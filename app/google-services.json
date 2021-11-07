@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720521421219",
+    "project_id": "callwell-58a5d",
+    "storage_bucket": "callwell-58a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720521421219:android:7b498d04c4b3a09356fa16",
+        "android_client_info": {
+          "package_name": "com.ritzu.hellobol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720521421219-df96e2cu100r9odab942b8cgbppqv9q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtLIUuUqNdEd9OqAQY9hK44R-OvwdUso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720521421219-df96e2cu100r9odab942b8cgbppqv9q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
