@@ -48,7 +48,7 @@
                 android:gravity="center"
                 android:padding="5dp"
                 android:shadowColor="#DCD1D1"
-                android:text="Create meet id OR to Join enter id"
+                android:text="Enter meeting id"
                 android:textColor="#1F1F20"
                 android:textSize="30sp" />
 
